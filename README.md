@@ -1,4 +1,3 @@
-#DESCRIPTION
 In ATM machine, an electronic lock circuit is used to authorize the card. This circuit has two input 
 codes: The card number that consists of 16 bits and the password that consists of 4 bits. If the 
 bank has 20 customers only uses the cards. Construct their database and store it in the memory. 
